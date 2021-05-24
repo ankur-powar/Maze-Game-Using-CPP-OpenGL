@@ -1,5 +1,5 @@
 # Maze-Game-Using-CPP-OpenGL
-----------------------------INSTRUCTIONS--------------------------
+-------------------------HOW TO PLAY--------------------------
   
 -USE ARROW KEYS TO MOVE THE POINTER
 
@@ -12,3 +12,10 @@
 -YOU HAVE 90 SECONDS TO FINISH THE GAME
 
 -PRESS ESC TO RETURN TO THE MAIN MENU
+
+
+# Screenshots
+
+![Screenshot (1050)](https://user-images.githubusercontent.com/73847812/119331538-17cf0100-bca5-11eb-81fc-6bba417b7860.png)
+
+
