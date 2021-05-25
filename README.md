@@ -1,5 +1,5 @@
-# Maze-Game-Using-CPP-OpenGL
--------------------------HOW TO PLAY--------------------------
+# Maze Game Using CPP OpenGL
+`-------------------------HOW TO PLAY--------------------------`
   
 -USE ARROW KEYS TO MOVE THE POINTER
 
@@ -14,7 +14,7 @@
 -PRESS ESC TO RETURN TO THE MAIN MENU
 
 
-# Screenshots
+## `Screenshots`
 
 ![Screenshot (1050)](https://user-images.githubusercontent.com/73847812/119331538-17cf0100-bca5-11eb-81fc-6bba417b7860.png)
 
